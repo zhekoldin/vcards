@@ -1,0 +1,38 @@
+:root {
+    --br_12: 12px;
+    --br_8: 8px;
+    --br_4: 4px;
+
+    --dark: #1d1d1d;
+    --dark_gray: #262626;
+    --gray: #2F2F2F;
+    --light_gray: #4D4D4D;
+    --white: #ffffff;
+
+    --green: #7FAA65;
+    --green_op: #7FAA65;
+    --orange: #AA9765;
+    --orange_op: #AA9765;
+    --purple: #656CAA;
+    --purple_op: #656CAA;
+    --red: #FA7272;
+    --light_red: #FF8888;
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-shadow: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+    background-color: var(--dark);
+    color: var(--white);
+}
