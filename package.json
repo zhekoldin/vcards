@@ -16,6 +16,7 @@
     "@primevue/themes": "^4.0.4",
     "pinia": "^2.1.7",
     "primevue": "^4.0.4",
+    "sortablejs": "^1.15.2",
     "vue": "^3.4.29"
   },
   "devDependencies": {
